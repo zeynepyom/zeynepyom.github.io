@@ -15,20 +15,21 @@ I am an Assistant Professor of Economics at Villanova University. My research in
 
   Bilkent University
   
-  ### Contact 
-  - **e-mail:** zeynep.yom@villanova.edu
-  - **address:** Villanova University 
+### Contact 
+- **e-mail:** zeynep.yom@villanova.edu
+- **address:** Villanova University 
   
-    Department of Economics 
+  Department of Economics 
   
-    Villanova School of Business 
+  Villanova School of Business 
   
-    1007 Bartley Hall
+  1007 Bartley Hall
   
-    800 Lancaster Ave. 
+  800 Lancaster Ave. 
   
-    Villanova, PA 19085
-  - **web:** https://zeynepyom.com
+  Villanova, PA 19085
+- **web:** https://zeynepyom.com
+- [**CV in PDF**](https://www.dropbox.com/s/9o9e9goq8rgqj41/cv.pdf?dl=0) 
   
 ## Welcome to GitHub Pages
 
