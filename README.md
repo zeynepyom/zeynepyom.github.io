@@ -1,7 +1,3 @@
-
-title: [Zeynep (Kabukcuoglu) Yom, PhD]
-description: [Assistant Professor of Economics, Villanova University]
-
 ## Welcome!
 
 I am an Assistant Professor of Economics at Villanova University. My research interests are mainly macroeconomics, international macroeconomics, monetary economics and financial economics. My research in international macroeconomics mostly focuses on sovereign debt crises at various angles, such as the role of income inequality in default risk, the relationship between labor markets and the default risk, and the link between banking and sovereign default crises. In addition, I have also researched in R&amp;D investments of U.S. firms such as the cyclicality of R&amp;D investments, how firms allocate investment between R&amp;D and non-R&amp;D investment when borrowing costs change. I have also examined the sensitivity of firm borrowing spreads in the U.S. to changes in monetary policy stance.
