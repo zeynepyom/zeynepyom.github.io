@@ -6,10 +6,13 @@ I am an Assistant Professor of Economics at Villanova University. My research in
 
 ### Education
 - PhD in Economics, 2015
+
   University of Pittsburgh
 - MA in Economics, 2009
+
   Boston College
 - BS in Industrial Engineering, 2007
+
   Bilkent University
   
 ## Welcome to GitHub Pages
