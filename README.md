@@ -28,4 +28,4 @@ I am an Assistant Professor of Economics at Villanova University. My research in
   800 Lancaster Ave. 
   
   Villanova, PA 19085
-- **web:** https://zeynepyom.com
+- **web:** [https://zeynepyom.com](https://zeynepyom.com)
