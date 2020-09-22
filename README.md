@@ -16,7 +16,7 @@ I am an Assistant Professor of Economics at Villanova University. My research in
   Bilkent University
   
 ### Contact 
-- **e-mail:** zeynep.yom@villanova.edu
+- **e-mail:** <a href="mailto:zeynep.yom@villanova.edu">zeynep.yom@villanova.edu</a>
 - **address:** Villanova University 
   
   Department of Economics 
