@@ -52,8 +52,8 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
 
 **1. “Interest rates, R&D investment and the distortionary effects of R&D incentives”**
 ```
-European Economic Review (2019) 111: 191-210. 
-with Uluc Aysun
+	European Economic Review (2019) 111: 191-210. 
+	with Uluc Aysun
 ```
 [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0014292118301673) 
 
