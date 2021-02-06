@@ -38,9 +38,13 @@ European Economic Review (2019) 111: 191-210.
 
 with Uluc Aysun
 
+[Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0014292118301673) 
+
 **2. “The cyclical behavior of R&D investment during the Great Recession”**
 
 Empirical Economics (2019) 56: 301-323.
+
+[Journal Link](https://link.springer.com/article/10.1007/s00181-017-1358-7)
 
 **3. “Income inequality and sovereign default”**
 
@@ -48,9 +52,13 @@ Journal of Economic Dynamics and Control (2018) 95: 211-232.
 
 with Kiyoung Jeon
 
+[Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0165188918302562)
+
 **4. “Is the credit channel alive? Firm-level evidence on the sensitivity of borrowing spreads to monetary policy”** 
 
 Economic Modelling (2018) 75: 305-319. 
 
 with Uluc Aysun and Kiyoung Jeon
+
+[Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0264999318303171)
 
