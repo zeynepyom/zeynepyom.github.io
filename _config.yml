@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Zeynep Yom, PhD
+author: Zeynep Yom
+navbar-links: 
+  About Me: "aboutme"
+  Resources:
+    - Webpage: "zeynepyom.com"
 description: Assistant Professor of Economics, Villanova University
+
