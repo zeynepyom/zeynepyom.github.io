@@ -10,17 +10,7 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
   
 ### Contact 
 - **e-mail:** <a href="mailto:zeynep.yom@villanova.edu">zeynep.yom@villanova.edu</a>
-- **address:** Villanova University 
-  
-  Department of Economics 
-  
-  Villanova School of Business 
-  
-  1007 Bartley Hall
-  
-  800 Lancaster Ave. 
-  
-  Villanova, PA 19085
+- **address:** Villanova University, Department of Economics, Villanova School of Business, 1007 Bartley Hall, 800 Lancaster Ave., Villanova, PA 19085.
 - **web:** [https://zeynepyom.com](https://zeynepyom.com)
 
 ### Publications
