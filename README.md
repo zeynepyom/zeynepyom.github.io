@@ -13,6 +13,7 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
 - [**personal webpage** ](https://zeynepyom.com)
 - **social media:** [![alt text][1.2]][1]
                [![alt text](In-2CRev-14px.png)][2]
+               [![alt text][6.2]][3]
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -42,7 +43,7 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
 
 [1]: http://www.twitter.com/zeynep_yom
 [2]: https://www.linkedin.com/in/zeynep-yom-b3ba571b/
-
+[3]: https://github.com/zeynepyom
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
