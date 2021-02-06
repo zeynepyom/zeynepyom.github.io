@@ -29,3 +29,11 @@ I am an Assistant Professor of Economics at Villanova University. My research in
   
   Villanova, PA 19085
 - **web:** [https://zeynepyom.com](https://zeynepyom.com)
+
+### Publications
+
+1. “Interest rates, R&D investment and the distortionary effects of R&D incentives” European Economic Review (2019) 111: 191-210, with Uluc Aysun
+2. “The cyclical behavior of R&D investment during the Great Recession” Empirical Economics (2019) 56: 301-323.
+3. “Income inequality and sovereign default” Journal of Economic Dynamics and Control (2018) 95: 211-232, with Kiyoung Jeon
+4. “Is the credit channel alive? Firm-level evidence on the sensitivity of borrowing spreads to monetary policy” Economic Modelling (2018) 75: 305-319, with Uluc Aysun and Kiyoung Jeon
+
