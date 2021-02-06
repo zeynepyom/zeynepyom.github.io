@@ -11,19 +11,12 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
 - **e-mail:** <a href="mailto:zeynep.yom@villanova.edu">zeynep.yom@villanova.edu</a>
 - **address:** Villanova University, Department of Economics, Villanova School of Business, 1007 Bartley Hall, 800 Lancaster Ave., Villanova, PA 19085.
 - **web:** [https://zeynepyom.com](https://zeynepyom.com)
-
+- **Twitter:**
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
 [![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
@@ -45,7 +38,7 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
-- **Social Media:**
+
 [1]: http://www.twitter.com/zeynep_yom
 
 
