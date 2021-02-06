@@ -29,7 +29,7 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: In-2CRev-14px.png (linkedin icon without padding)
+[2.2]: https://i.imgur.com/rwYRqn6.png (linkedin icon without padding)
 [3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
 [4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
 [5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
