@@ -12,7 +12,7 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
 - **address:** Villanova University, Department of Economics, Villanova School of Business, 1007 Bartley Hall, 800 Lancaster Ave., Villanova, PA 19085.
 - [**personal webpage** ](https://zeynepyom.com)
 - **social media:** [![alt text][1.2]][1]
-               [![alt text](In-Black-14px.png)][2]
+               [![alt text](In-2CRev-14px.png)][2]
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
