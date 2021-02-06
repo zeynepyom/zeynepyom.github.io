@@ -1,18 +1,12 @@
-I am an Assistant Professor of Economics at Villanova University. My research interests are mainly macroeconomics, international macroeconomics, monetary economics and financial economics. My research in international macroeconomics mostly focuses on sovereign debt crises at various angles, such as the role of income inequality in default risk, the relationship between labor markets and the default risk, and the link between banking and sovereign default crises. In addition, I have researched in various topics related to R&D investments of U.S. firms such as the cyclicality of R&D investments, R&D’s role in business cycles, the effects of the policies that promote innovation on R&D investments, and the joint effects of market power and R&D on the cyclicality of employment. I have also examined the sensitivity of firm borrowing spreads in the U.S. to changes in monetary policy stance.
-![avatar](avatar)
+I am an Assistant Professor of Economics at [Villanova University](https://www1.villanova.edu/university.html). I graduated with a PhD in Economics from [University of Pittsburgh](https://www.pitt.edu) in 2015. 
+
+My research interests are mainly macroeconomics, international macroeconomics, monetary economics and financial economics. 
+
+My research in international macroeconomics mostly focuses on sovereign debt crises at various angles, such as the role of income inequality in default risk, the relationship between labor markets and the default risk, and the link between banking and sovereign default crises. In addition, I have researched in various topics related to R&D investments of U.S. firms such as the cyclicality of R&D investments, R&D’s role in business cycles, the effects of the policies that promote innovation on R&D investments, and the joint effects of market power and R&D on the cyclicality of employment. I have also examined the sensitivity of firm borrowing spreads in the U.S. to changes in monetary policy stance.
+
 
 ### [**CV in PDF**](https://www.dropbox.com/s/9o9e9goq8rgqj41/cv.pdf?dl=0)
 
-### Education
-- **PhD in Economics, 2015**
-
-  University of Pittsburgh
-- **MA in Economics, 2009**
-
-  Boston College
-- **BS in Industrial Engineering, 2007**
-
-  Bilkent University
   
 ### Contact 
 - **e-mail:** <a href="mailto:zeynep.yom@villanova.edu">zeynep.yom@villanova.edu</a>
