@@ -1,7 +1,7 @@
 # Welcome!
 
 I am an Assistant Professor of Economics at Villanova University. My research interests are mainly macroeconomics, international macroeconomics, monetary economics and financial economics. My research in international macroeconomics mostly focuses on sovereign debt crises at various angles, such as the role of income inequality in default risk, the relationship between labor markets and the default risk, and the link between banking and sovereign default crises. In addition, I have researched in various topics related to R&D investments of U.S. firms such as the cyclicality of R&D investments, R&D’s role in business cycles, the effects of the policies that promote innovation on R&D investments, and the joint effects of market power and R&D on the cyclicality of employment. I have also examined the sensitivity of firm borrowing spreads in the U.S. to changes in monetary policy stance.
-![Alt text](IMG_1923.jpg)
+![Alt text](IMG_1923.jpg|width=20)
 
 ### [**CV in PDF**](https://www.dropbox.com/s/9o9e9goq8rgqj41/cv.pdf?dl=0)
 
