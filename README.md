@@ -77,4 +77,4 @@ Economic Modelling (2018) 75: 305-319.
 with Uluc Aysun and Kiyoung Jeon
 ```
 [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0264999318303171)
-```
+
