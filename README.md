@@ -52,7 +52,7 @@ My research in international macroeconomics mostly focuses on sovereign debt cri
 
 **1. “R&D, market power and the cyclicality of employment”** 
 ```
-Journal of Money, Credit and Banking (2023) (accepted) 
+Journal of Money, Credit and Banking (2023)  
 with Uluc Aysun, Melanie Guldi and Adam Honig
 ```
 
