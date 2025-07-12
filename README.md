@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.jpg" alt="Zeynep Yom" width="200">
+</p>
+
 I am an Associate Professor of Economics at [Villanova University](https://www1.villanova.edu/university.html). I graduated with a PhD in Economics from [University of Pittsburgh](https://www.pitt.edu) in 2015. 
 
 My research interests are mainly macroeconomics, international macroeconomics, monetary economics and financial economics. 
