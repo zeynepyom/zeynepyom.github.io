@@ -1,11 +1,11 @@
-<table>
+<table border="0">
 <tr>
-<td width="200px">
+<td width="200px" style="vertical-align: top; padding-right: 20px;">
 
 <img src="yom-2031.JPG" alt="Zeynep Yom" width="180" style="border-radius: 6px;">
 
 </td>
-<td>
+<td style="vertical-align: top;">
 
 <p>I am an Associate Professor of Economics at <a href="https://www1.villanova.edu/university/business.html" target="_blank">Villanova University</a>. I graduated with a PhD in Economics from <a href="https://www.pitt.edu/" target="_blank">University of Pittsburgh</a> in 2015.</p>
 
@@ -16,6 +16,7 @@
 </td>
 </tr>
 </table>
+
 
 
 
