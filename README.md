@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="yom-2031.JPG" alt="Zeynep Yom" width="200">
-</p>
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <img src="yom-2031.JPG" alt="Zeynep Yom" width="200" style="border-radius: 6px;">
 
-I am an Associate Professor of Economics at [Villanova University](https://www1.villanova.edu/university.html). I graduated with a PhD in Economics from [University of Pittsburgh](https://www.pitt.edu) in 2015. 
+  <div>
+    <p>I am an Associate Professor of Economics at <a href="https://www1.villanova.edu/university/business.html" target="_blank">Villanova University</a>. I graduated with a PhD in Economics from <a href="https://www.pitt.edu/" target="_blank">University of Pittsburgh</a> in 2015.</p>
+    <p>My research interests are mainly macroeconomics, international macroeconomics, monetary economics and financial economics.</p>
+    <p>My research in international macroeconomics mostly focuses on sovereign debt crises at various angles, such as the role of income inequality in default risk, the relationship between labor markets and the default risk, and the link between banking and sovereign default crises. In addition, I have researched in various topics related to R&D investments of U.S. firms such as the cyclicality of R&D investments, R&D’s role in business cycles, the effects of the policies that promote innovation on R&D investments, and the joint effects of market power and R&D on the cyclicality of employment. I have also examined the sensitivity of firm borrowing spreads in the U.S. to changes in monetary policy stance.</p>
+  </div>
+</div>
 
-My research interests are mainly macroeconomics, international macroeconomics, monetary economics and financial economics. 
 
-My research in international macroeconomics mostly focuses on sovereign debt crises at various angles, such as the role of income inequality in default risk, the relationship between labor markets and the default risk, and the link between banking and sovereign default crises. In addition, I have researched in various topics related to R&D investments of U.S. firms such as the cyclicality of R&D investments, R&D’s role in business cycles, the effects of the policies that promote innovation on R&D investments, and the joint effects of market power and R&D on the cyclicality of employment. I have also examined the sensitivity of firm borrowing spreads in the U.S. to changes in monetary policy stance.
+
 
 ### [**CV in PDF**](https://www.dropbox.com/scl/fi/ybca5n6qxxern5bz9z5eo/yom_cv.pdf?rlkey=zsyda1vuxori9fk1vhqghud1p&st=z93xnvz7&dl=0)
 
