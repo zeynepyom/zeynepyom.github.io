@@ -30,7 +30,8 @@
 - **e-mail:** <a href="mailto:zeynep.yom@villanova.edu">zeynep.yom@villanova.edu</a>
 - **address:** Villanova University, Department of Economics, Villanova School of Business, 1007 Bartley Hall, 800 Lancaster Ave., Villanova, PA 19085.
 - [**personal webpage** ](https://zeynepyom.com)
-**Profiles:**  
+  
+-**Profiles:**  
   • [Villanova Faculty Page](https://www1.villanova.edu/university/business/faculty-and-research/faculty-by-department/biodetail.html?mail=zeynep.yom@villanova.edu&xsl=bio_long)  
   • [LinkedIn](https://www.linkedin.com/in/zeynep-yom-b3ba571b/)  
   • [Google Scholar](https://scholar.google.com/citations?user=-tnSpq8AAAAJ&hl=en)  
