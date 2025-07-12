@@ -4,7 +4,7 @@ My research interests are mainly macroeconomics, international macroeconomics, m
 
 My research in international macroeconomics mostly focuses on sovereign debt crises at various angles, such as the role of income inequality in default risk, the relationship between labor markets and the default risk, and the link between banking and sovereign default crises. In addition, I have researched in various topics related to R&D investments of U.S. firms such as the cyclicality of R&D investments, R&D’s role in business cycles, the effects of the policies that promote innovation on R&D investments, and the joint effects of market power and R&D on the cyclicality of employment. I have also examined the sensitivity of firm borrowing spreads in the U.S. to changes in monetary policy stance.
 
-### [**CV in PDF**](https://www.dropbox.com/s/a9f5fvoc6fmu2yr/cv.pdf?dl=0)
+### [**CV in PDF**](https://www.dropbox.com/scl/fi/ybca5n6qxxern5bz9z5eo/yom_cv.pdf?rlkey=zsyda1vuxori9fk1vhqghud1p&st=z93xnvz7&dl=0)
 
   
 ### Contact 
